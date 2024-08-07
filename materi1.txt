@@ -1,0 +1,10 @@
+1. bikin component
+2. link ke CDN
+3. pages
+4. asset (public)
+
+tugas:
+bikin website dengan nuxt menggunakan bootstrap
+menampilkan component minimal ada header dan footer
+menampilkan kontek di bagian pages
+ada image yang disimpan di asset
